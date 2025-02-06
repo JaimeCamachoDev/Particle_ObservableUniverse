@@ -8,5 +8,5 @@
 
 # Universe Observable
 
-_Particles for Unity 6 URP, Observable Universe_
+_Particle System in Unity 6 URP, Observable Universe_
 
